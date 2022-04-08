@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * program that prints single digits from 0
- * followed by a new line
+ * main - Entry point
+ * 
  * Return: Always 0 (Success)
  */
 int main(void)
