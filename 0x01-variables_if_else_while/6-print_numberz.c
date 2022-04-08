@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-/*
+/**
  * main - print numbers
- *
  * Return: Always 0 (Success)
  */
 
